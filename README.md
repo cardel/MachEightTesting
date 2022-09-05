@@ -2,8 +2,6 @@
 
 ##Testing App
 
-[![Build Status]
-
 App is an application to find the pairs of numbers that sum is a specified value, in order to use this application you need to install in your computer Python 3 (https://www.python.org)
 
 You can use this application as follows in Linux Terminal:
